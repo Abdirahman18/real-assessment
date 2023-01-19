@@ -1,0 +1,53 @@
+.container{
+    text-align: center;
+    display: flex;
+    justify-content:center;
+}
+button{
+    border: 1px solid #3498db;
+    background-color: rgb(6, 208, 215);
+    padding: 10px 10px;
+    font-size: 20px;
+    font-family: cursive;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+    }
+    body{
+        background-color: #6699FF;
+    }
+    .title{
+        font-size: 36px;
+        font-weight:bold;
+        text-align: center;
+        background-color: rgb(6, 208, 215);
+        font-family: "serif";
+        font-style: italic;
+        border-radius: 20px;
+    }
+    .main-content{
+        border: 6px solid rgb(6, 208, 215); ;
+        border-radius: 20px;
+        text-align: center;
+        padding: 100px;
+    }
+    p{
+        font-size: 16px;
+        text-align: justify;
+        font-family: "serif";
+    }
+    img{
+        height: 100px;
+        width: 100px;
+    }
+    a{
+        text-decoration: none;
+        color: #FFFF99;
+    }
+    a:visited{
+        color: #FF3300;
+    }
+    
